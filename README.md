@@ -1,2 +1,3 @@
 # git-pratice
-# firt-1
+# first-1
+# second-2
